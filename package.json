@@ -1,0 +1,23 @@
+{
+  "name": "galeria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html --content function.js -o reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antonimason/To-do-List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antonimason/To-do-List/issues"
+  },
+  "homepage": "https://github.com/Antonimason/To-do-List#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
