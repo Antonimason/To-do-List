@@ -61,7 +61,7 @@ function show() {
                         <p class="text-center m-3">${description}</p>
                     </div>
                     <div class="col-2 text-center">
-                    <a href="" onclick="Delete('${title}')"><i class="fa-sharp fa-solid fa-trash display-6 mt-3 text-danger"></i></a>
+                    <a href="" onclick="Delete('${title}')"><i class="fa-sharp fa-solid fa-trash display-6 mt-2 text-danger"></i></a>
                     </div>
                 </div>
         `
