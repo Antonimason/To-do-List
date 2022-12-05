@@ -54,14 +54,14 @@ function show() {
         tasksView.innerHTML += 
         `
                 <div class="row border-bottom">
-                    <div class="col-4 text-center">
-                        <h5 class="text-center m-3">${title}</h5>
+                    <div class="col-3 text-center">
+                        <h5 class="text-center my-3">${title}</h5>
                     </div>
                     <div class="col-6 text-center">
-                        <p class="text-center m-3">${description}</p>
+                        <p class="text-center my-3">${description}</p>
                     </div>
-                    <div class="col-2 text-center">
-                    <a href="" onclick="Delete('${title}')"><i class="fa-sharp fa-solid fa-trash display-6 mt-2 text-danger"></i></a>
+                    <div class="col-3 text-center">
+                    <a href="" onclick="Delete('${title}')"><i class="fa-sharp fa-solid fa-trash display-6 my-2 text-danger"></i></a>
                     </div>
                 </div>
         `
