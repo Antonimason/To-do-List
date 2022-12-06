@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./sass/custom.css">
+    <link rel="stylesheet" href="./reducido.css">
 
     <script src="https://kit.fontawesome.com/95546a11ba.js" crossorigin="anonymous"></script>
 
@@ -36,13 +36,13 @@
     </header>
 
     <main class="container vh-90 mt-5 d-flex justify-content-center align-items-center">
-        <div class="row w-100 bg-light joder">
+        <div class="row w-100 bg-light joder shadow-sm p-3 mb-5 bg-light">
             <div class="col-12 col-md-4 border joder">
                 <div class="input-group">
-                    <input required class="form-control mt-2" type="text" id="title" placeholder="Title" maxlength="50">
+                    <input required class="form-control mt-2" type="text" id="title" placeholder="Title" minlength="1" maxlength="50">
                 </div>
                 <div class="input-group mt-2"> 
-                    <textarea required class="form-control h-50" id="description" placeholder="Description" maxlength="500"></textarea>
+                    <textarea required class="form-control h-50" id="description" placeholder="Description" minlength="1" maxlength="500"></textarea>
                 </div>
                 
                 <input type="submit" id="buttom" class="bg-success joder my-4 px-3" value="Add">

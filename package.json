@@ -4,7 +4,7 @@
   "description": "",
   "main": "function.js",
   "scripts": {
-    "build": "purgecss --css sass/custom.css --content index.html --content function.js -o reducido.css"
+    "build": "purgecss --css sass/custom.css --content index.html -o reducido.css"
   },
   "repository": {
     "type": "git",

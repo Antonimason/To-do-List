@@ -27,6 +27,7 @@ function add() {
         description
         };
     
+    
     if(localStorage.getItem('tasks') === null) {
         let tasks = [];
         tasks.push(task);

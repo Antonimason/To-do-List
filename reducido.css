@@ -3,6 +3,15 @@
   border-radius: 10px;
   border: none;
 }
+.cuadro {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.vergacion{
+  margin-top: 1rem;
+  color: red;
+  cursor:pointer;
+}
 
 /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
@@ -556,6 +565,10 @@ textarea.form-control {
   display: flex !important;
 }
 
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
 .border {
   border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
 }
@@ -595,6 +608,14 @@ textarea.form-control {
 
 .mt-5 {
   margin-top: 3rem !important;
+}
+
+.mb-5 {
+  margin-bottom: 3rem !important;
+}
+
+.p-3 {
+  padding: 1rem !important;
 }
 
 .px-3 {
