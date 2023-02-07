@@ -27,7 +27,9 @@ function add() {
         description
         };
     
-    
+    if (task.title === "" || task.description === "") {
+        console.log("no se  puede hijo")
+    } else {
     if(localStorage.getItem('tasks') === null) {
         let tasks = [];
         tasks.push(task);
@@ -38,6 +40,7 @@ function add() {
         tasks.push(task);
         localStorage.setItem('tasks', JSON.stringify(tasks));
     }
+}
     
     show();
     document.getElementById('title').value = '';
