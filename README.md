@@ -14,24 +14,21 @@ By making this page I learned the following:
 - Callbacks.
 
 <h2>Challenge</h2>
-<p>The most difficult challenge in this page was to collect the data through buttons to evaluate them in the different types of mathematical operations using JavaScript.</p>
+<p>The most difficult challenge on this page was to create the Local Storage so that the user can store the data in an array or delete the tasks from the array.</p>
 
 <h2>Features</h2>
 
-- Display
-- Addition Function
-- Subtraction Function
-- Multiplication Function
-- Division Function
-- Decimal Function
-- Square Root Function
-- Deleting and Clearing Function
+- LocalStorage().
+- Create Function.
+- Read Function.
+- Delete Function.
+- Bootstrap Components.
 
 <h2>Technologies Used</h2>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 
 <h2>Web page link</h2>
-<a href="https://calculatorantocode9.netlify.app/">Calculator</a>
+<a href="https://todolis-antog9.netlify.app/">To-Do-List</a>
 <h2>Contact</h2>
 
 Let's connect! You can reach me at:
