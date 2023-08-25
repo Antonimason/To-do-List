@@ -1,13 +1,15 @@
-# To-do-List
+# Bootstrap To-do-List
+
+![To-do-List](https://github.com/Antonimason/To-do-List/assets/104198696/8d599cc0-d44f-4d8b-b36c-110575582099)
 
 <h2>Introduction</h2>
-<p>This has been my second project with the intention of learning how to develop a website with HTML, CSS and JavaScript. 
+<p>This has been my Fifth project with the intention of learning how to develop a website with Bootstrap 5. 
   
 By making this page I learned the following: 
 
-- Implementation and use of Flex Box and Grid.
-- Management of arithmetic and logic code by JavaScript.
-- DOM manipulation.
+- Implementation and usage of Bootstrap 5.
+- Working with Local Storage ().
+- Data Visualization.
 - Callbacks.
 
 <h2>Challenge</h2>
