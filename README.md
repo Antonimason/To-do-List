@@ -4,14 +4,14 @@
 
 
 <h2>Introduction</h2>
-<p>This has been my Fifth project with the intention of learning how to develop a website with Bootstrap 5. 
+<p>This has been my Fifth project with the intention of learning how to develop a website with different tools, and this is my first project with Bootstrap 5 also using SASS Compiler. 
   
 By making this page I learned the following: 
 
 - Implementation and usage of Bootstrap 5.
 - Working with Local Storage ().
 - Data Visualization.
-- Callbacks.
+- Sass Compiler.
 
 <h2>Challenge</h2>
 <p>The most difficult challenge on this page was to create the Local Storage so that the user can store the data in an array or delete the tasks from the array.</p>
